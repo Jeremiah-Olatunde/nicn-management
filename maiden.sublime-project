@@ -1,0 +1,30 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"LSP-tailwindcss":
+			{
+				"enabled": true,
+			},
+			"LSP-html":
+			{
+				"enabled": true,
+			},
+			"LSP-css":
+			{
+				"enabled": true,
+			},
+			"LSP-typescript":
+			{
+				"enabled": true
+			},
+		},
+	},
+}
