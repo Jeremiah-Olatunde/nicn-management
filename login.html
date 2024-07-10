@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/wind.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind</title>
+  </head>
+
+  <body>
+    <div id="app" class="grid h-screen w-screen grid-cols-2">
+      <div class="relative grid place-items-start bg-blue-200">
+        <img
+          src="/assets/svgs/tenkai.svg"
+          alt=""
+          class="absolute h-full w-full object-cover"
+        />
+        <div
+          class="container z-10 flex h-full w-full flex-col justify-between p-8"
+        >
+          <header>
+            <h1 class="text-3xl font-extrabold capitalize text-white">
+              archetype university.
+            </h1>
+          </header>
+
+          <p class="text-left text-7xl font-extrabold capitalize text-white">
+            student <br />
+            login
+          </p>
+        </div>
+      </div>
+
+      <div class="grid place-items-center bg-gray-50">
+        <div class="form-container w-2/3 p-8">
+          <img
+            src="/assets/images/grad-student.png"
+            alt=""
+            class="mx-auto mb-4 w-1/2 rounded-full border-4 border-blue-500"
+          />
+          <header>
+            <h1 class="mb-4 text-center text-4xl font-bold">Welcome Back!</h1>
+            <p class="text-md text-center font-medium text-gray-500">
+              Lorem ipsum dolor sit amet consectetur adipisic fing, elit.
+              Aliquid repellendus repudiandae.
+            </p>
+          </header>
+
+          <form action="">
+            <!-- <label for="student-id" class="block mt-12">stundent id</label> -->
+            <input
+              type="text"
+              name="student-id"
+              id="student-id"
+              placeholder="stundent id"
+              class="mt-12 w-full rounded-md border-2 border-gray-200 bg-gray-100 p-4 placeholder:font-medium placeholder:capitalize placeholder:text-gray-400 focus:border-blue-600 focus:bg-blue-50 focus:outline-none font-bold text-gray-500"
+            />
+
+            <!-- <label for="password" class="block mt-12">stundent id</label> -->
+            <input
+              type="password"
+              name="password"
+              id="password"
+              placeholder="password"
+              class="mt-6 w-full rounded-md border-2 border-gray-200 bg-gray-100 p-4 placeholder:font-medium placeholder:capitalize placeholder:text-gray-400 focus:border-blue-600 focus:bg-blue-50 focus:outline-none text-gray-500"
+            />
+
+            <div class="mt-4 flex justify-between">
+              <div class="">
+                <input type="checkbox" id="remember-me" class="h-4 w-4" />
+                <label
+                  for="remember-me"
+                  class="text-md font-semibold capitalize text-gray-400"
+                  >remember me</label
+                >
+              </div>
+              <a href="#" class="text-md font-bold capitalize text-blue-400"
+                >forgot password</a
+              >
+            </div>
+
+            <button
+              type="submit"
+              class="mt-12 w-full rounded-md bg-blue-600 p-4 text-xl font-bold uppercase text-white"
+            >
+              login
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

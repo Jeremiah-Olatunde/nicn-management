@@ -4,6 +4,502 @@
 		"selected_items":
 		[
 			[
+				"text-gray",
+				"text-gray-500"
+			],
+			[
+				"font-m",
+				"font-medium"
+			],
+			[
+				"border-ble",
+				"border-blue-200"
+			],
+			[
+				"font-ex",
+				"font-extrabold"
+			],
+			[
+				"text-gr",
+				"text-gray-600"
+			],
+			[
+				"text-g",
+				"text-gray-500"
+			],
+			[
+				"text-blue-",
+				"text-blue-400"
+			],
+			[
+				"jus",
+				"justify-between"
+			],
+			[
+				"item-",
+				"items-center"
+			],
+			[
+				"border-b-or",
+				"border-b-orange-400"
+			],
+			[
+				"font-extra",
+				"font-extrabold"
+			],
+			[
+				"just",
+				"justify-between"
+			],
+			[
+				"item",
+				"items-center"
+			],
+			[
+				"items",
+				"items-center"
+			],
+			[
+				"border-blue",
+				"border-blue-200"
+			],
+			[
+				"bg-orange-",
+				"bg-orange-100"
+			],
+			[
+				"aspe",
+				"aspect-auto"
+			],
+			[
+				"border-bl",
+				"border-blue-200"
+			],
+			[
+				"border-gre",
+				"border-green-500"
+			],
+			[
+				"text-gra",
+				"text-gray-600"
+			],
+			[
+				"text-",
+				"text-sm"
+			],
+			[
+				"border-t-",
+				"border-t-2"
+			],
+			[
+				"aspec",
+				"aspect-square"
+			],
+			[
+				"bg-gra",
+				"bg-gray-50"
+			],
+			[
+				"bg-green",
+				"bg-green-300"
+			],
+			[
+				"bg-green-",
+				"bg-green-300"
+			],
+			[
+				"round",
+				"rounded-xl"
+			],
+			[
+				"rounded",
+				"rounded-lg"
+			],
+			[
+				"border-blue-",
+				"border-blue-200"
+			],
+			[
+				"op",
+				"opacity-60"
+			],
+			[
+				"text-bl",
+				"text-blue-400"
+			],
+			[
+				"object-co",
+				"object-cover"
+			],
+			[
+				"plac-item",
+				"place-items-center"
+			],
+			[
+				"12",
+				"basis-1/12"
+			],
+			[
+				"basis-6",
+				"basis-6/12"
+			],
+			[
+				"bas",
+				"basis-2"
+			],
+			[
+				"obje",
+				"object-cover"
+			],
+			[
+				"grid-co",
+				"grid-cols-3"
+			],
+			[
+				"scrol",
+				"scrollbar-width"
+			],
+			[
+				"scroll",
+				"scrollbar-color"
+			],
+			[
+				"over",
+				"overflow-auto"
+			],
+			[
+				"text-red-",
+				"text-red-500"
+			],
+			[
+				"dura",
+				"duration-75"
+			],
+			[
+				"transi",
+				"transition-all"
+			],
+			[
+				"bg-red",
+				"bg-red-500"
+			],
+			[
+				"place-ite",
+				"place-items-center"
+			],
+			[
+				"rounde",
+				"rounded-sm"
+			],
+			[
+				"bg-blue",
+				"bg-blue-400"
+			],
+			[
+				"ju",
+				"justify-between"
+			],
+			[
+				"grid-c",
+				"grid-cols-2"
+			],
+			[
+				"objec",
+				"object-cover"
+			],
+			[
+				"as",
+				"aspect-square"
+			],
+			[
+				"text-gre",
+				"text-green-400"
+			],
+			[
+				"overfl",
+				"overflow-y-auto"
+			],
+			[
+				"text-blue",
+				"text-blue-400"
+			],
+			[
+				"basis-1",
+				"basis-1/2"
+			],
+			[
+				"w-f",
+				"w-fit"
+			],
+			[
+				"bg-bl",
+				"bg-blue-200"
+			],
+			[
+				"font-extr",
+				"font-extrabold"
+			],
+			[
+				"grid-",
+				"grid-rows-subgrid"
+			],
+			[
+				"wra",
+				"flex-nowrap"
+			],
+			[
+				"flex",
+				"flex-1"
+			],
+			[
+				"bor",
+				"border-2"
+			],
+			[
+				"gap",
+				"gap-2"
+			],
+			[
+				"h-4",
+				"h-48"
+			],
+			[
+				"grid-ro",
+				"grid-rows-2"
+			],
+			[
+				"rounded-",
+				"rounded-md"
+			],
+			[
+				"font-bo",
+				"font-bold"
+			],
+			[
+				"text-w",
+				"text-white"
+			],
+			[
+				"bo",
+				"bottom-0"
+			],
+			[
+				"ri",
+				"right-0"
+			],
+			[
+				"z",
+				"z-10"
+			],
+			[
+				"opac",
+				"opacity-20"
+			],
+			[
+				"object-",
+				"object-cover"
+			],
+			[
+				"bg-blue-",
+				"bg-blue-200"
+			],
+			[
+				"place-item",
+				"place-items-center"
+			],
+			[
+				"asp",
+				"aspect-square"
+			],
+			[
+				"border-gr",
+				"border-gray-200"
+			],
+			[
+				"font-ext",
+				"font-extrabold"
+			],
+			[
+				"border",
+				"border-2"
+			],
+			[
+				"border-gra",
+				"border-gray-300"
+			],
+			[
+				"ite",
+				"items-center"
+			],
+			[
+				"tex-blue",
+				"text-blue-300"
+			],
+			[
+				"bg-or",
+				"bg-orange-100"
+			],
+			[
+				"bg-op",
+				"bg-opacity-25"
+			],
+			[
+				"mb-1",
+				"mb-14"
+			],
+			[
+				"mb-",
+				"mb-24"
+			],
+			[
+				"bg-opacity-2",
+				"bg-opacity-25"
+			],
+			[
+				"bg-opa",
+				"bg-opacity-50"
+			],
+			[
+				"w-6",
+				"w-60"
+			],
+			[
+				"w-5",
+				"w-56"
+			],
+			[
+				"mb",
+				"mb-2"
+			],
+			[
+				"lead",
+				"leading-none"
+			],
+			[
+				"content",
+				"content-center"
+			],
+			[
+				"w-",
+				"w-8"
+			],
+			[
+				"h-",
+				"h-8"
+			],
+			[
+				"justif",
+				"justify-center"
+			],
+			[
+				"ga",
+				"gap-1"
+			],
+			[
+				"place-it",
+				"place-items-center"
+			],
+			[
+				"-z",
+				"-z-10"
+			],
+			[
+				"bg-pur",
+				"bg-purple-100"
+			],
+			[
+				"bg-blu",
+				"bg-blue-100"
+			],
+			[
+				"col-s",
+				"col-span-3"
+			],
+			[
+				"grid-cols-",
+				"grid-cols-12"
+			],
+			[
+				"mt-8",
+				"mt-80"
+			],
+			[
+				"mt-7",
+				"mt-72"
+			],
+			[
+				"mt-5",
+				"mt-56"
+			],
+			[
+				"right-2",
+				"right-24"
+			],
+			[
+				"top-5",
+				"top-56"
+			],
+			[
+				"bottom-4",
+				"bottom-40"
+			],
+			[
+				"place-items-",
+				"place-items-end"
+			],
+			[
+				"ob",
+				"object-cover"
+			],
+			[
+				"place",
+				"placeholder:"
+			],
+			[
+				"outline",
+				"outline-none"
+			],
+			[
+				"bg-gray",
+				"bg-gray-100"
+			],
+			[
+				"bg-b",
+				"bg-blue-200"
+			],
+			[
+				"stu",
+				"student-id"
+			],
+			[
+				"grid-col",
+				"grid-cols-2"
+			],
+			[
+				"place-ites",
+				"place-items-center"
+			],
+			[
+				"border-b",
+				"border-b-2"
+			],
+			[
+				"shadow-",
+				"shadow-md"
+			],
+			[
+				"border-",
+				"border-4"
+			],
+			[
+				"py-1",
+				"py-10"
+			],
+			[
+				"justi",
+				"justify-between"
+			],
+			[
 				"HTMLTableC",
 				"HTMLTableCellElement"
 			],
@@ -18,502 +514,6 @@
 			[
 				"HTMLTA",
 				"HTMLTableCellElement"
-			],
-			[
-				"after",
-				"afterend"
-			],
-			[
-				"le",
-				"length"
-			],
-			[
-				"de",
-				"details"
-			],
-			[
-				"col",
-				"COLUMN_NAMES"
-			],
-			[
-				"--theme",
-				"--theme-primary"
-			],
-			[
-				"f",
-				"firstName"
-			],
-			[
-				"getEle",
-				"getElementsByClassName"
-			],
-			[
-				"statu",
-				"statusElement"
-			],
-			[
-				"append",
-				"appendChild"
-			],
-			[
-				"status",
-				"statusElement"
-			],
-			[
-				"crea",
-				"createElement"
-			],
-			[
-				"app",
-				"appendChild"
-			],
-			[
-				"appedn",
-				"appendChild"
-			],
-			[
-				"cre",
-				"createElement"
-			],
-			[
-				"Document",
-				"DocumentFragment"
-			],
-			[
-				"DOcument",
-				"DocumentFragment"
-			],
-			[
-				"Move",
-				"MoveRow"
-			],
-			[
-				"new",
-				"newModel"
-			],
-			[
-				"sele",
-				"select/col"
-			],
-			[
-				"setimt",
-				"setTimeout"
-			],
-			[
-				"model",
-				"Model"
-			],
-			[
-				"yello",
-				"yellow"
-			],
-			[
-				"Cur",
-				"CursorRemoveAll"
-			],
-			[
-				"selec",
-				"selected"
-			],
-			[
-				"res",
-				"resize/row"
-			],
-			[
-				"Resie",
-				"ResizeCol"
-			],
-			[
-				"Curs",
-				"CursorModel"
-			],
-			[
-				"Cu",
-				"CursorPlace"
-			],
-			[
-				"Select",
-				"SelectCancel"
-			],
-			[
-				"Sele",
-				"SelectModel"
-			],
-			[
-				"Resize",
-				"ResizeRow"
-			],
-			[
-				"creat",
-				"createStore"
-			],
-			[
-				"Axis",
-				"AxisResizeRow"
-			],
-			[
-				"Cre",
-				"CreateMessage"
-			],
-			[
-				"Selec",
-				"SelectionMake"
-			],
-			[
-				"s",
-				"selection"
-			],
-			[
-				"in",
-				"interface"
-			],
-			[
-				"scrollbar-",
-				"scrollbar-width"
-			],
-			[
-				"--",
-				"--theme-secondary-bg"
-			],
-			[
-				"scro",
-				"scrollbar-width"
-			],
-			[
-				"--the",
-				"--theme-secondary-bg"
-			],
-			[
-				"flex-",
-				"flex-direction"
-			],
-			[
-				"buid",
-				"builder"
-			],
-			[
-				"b",
-				"builder"
-			],
-			[
-				"ini",
-				"initView"
-			],
-			[
-				"Docu",
-				"DocumentFragment"
-			],
-			[
-				"cell",
-				"cellArray"
-			],
-			[
-				"l",
-				"length"
-			],
-			[
-				"replac",
-				"replaceChildren"
-			],
-			[
-				"Docume",
-				"DocumentFragment"
-			],
-			[
-				"ins",
-				"instanceof"
-			],
-			[
-				"cus",
-				"cursor"
-			],
-			[
-				"border-",
-				"border-bottom"
-			],
-			[
-				"dat",
-				"dataEdge"
-			],
-			[
-				"n",
-				":nth-of-type()"
-			],
-			[
-				"parse",
-				"parseInt"
-			],
-			[
-				"tab",
-				"tableWidth"
-			],
-			[
-				"HTMLDi",
-				"HTMLDivElement"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"site",
-				"SiteTheme"
-			],
-			[
-				"m",
-				"mocha"
-			],
-			[
-				"cat",
-				"catppucinToSiteTheme"
-			],
-			[
-				"add",
-				"addTheme"
-			],
-			[
-				"Theme",
-				"ThemeGroup"
-			],
-			[
-				"defa",
-				"defaultTheme"
-			],
-			[
-				"Pa",
-				"Partial"
-			],
-			[
-				"ma",
-				"mauve"
-			],
-			[
-				"te",
-				"text"
-			],
-			[
-				"Ca",
-				"CatppuccinFlavor"
-			],
-			[
-				"a",
-				"mirage"
-			],
-			[
-				"moc",
-				"macchiato"
-			],
-			[
-				"them",
-				"themeMap"
-			],
-			[
-				"c",
-				"currentTheme"
-			],
-			[
-				"toggl",
-				"toggleTheme"
-			],
-			[
-				"cur",
-				"currentTheme"
-			],
-			[
-				"thee",
-				"themeControl"
-			],
-			[
-				"theme",
-				"themeMap"
-			],
-			[
-				"togg",
-				"toggleTheme"
-			],
-			[
-				"Cat",
-				"CatppuccinFlavor"
-			],
-			[
-				"get",
-				"getPropertyValue"
-			],
-			[
-				"wi",
-				"width"
-			],
-			[
-				"--color",
-				"--color-dark-base"
-			],
-			[
-				"grid-temp",
-				"grid-template-areas"
-			],
-			[
-				"grid-row-",
-				"grid-row-gap"
-			],
-			[
-				"grid-tem",
-				"grid-template-areas"
-			],
-			[
-				"grid-col",
-				"grid-column"
-			],
-			[
-				"min",
-				"min-content"
-			],
-			[
-				"--c",
-				"--ctp-mocha-mauve"
-			],
-			[
-				"padd",
-				"padding-bottom"
-			],
-			[
-				"font-",
-				"font-size"
-			],
-			[
-				"spa",
-				"space-around"
-			],
-			[
-				"--ca",
-				"--ctp-mocha-mauve"
-			],
-			[
-				"color",
-				"color"
-			],
-			[
-				"wdi",
-				"width"
-			],
-			[
-				"border-ra",
-				"border-radius"
-			],
-			[
-				"margin-b",
-				"margin-bottom"
-			],
-			[
-				"padding-b",
-				"padding-bottom"
-			],
-			[
-				"alig",
-				"align-items"
-			],
-			[
-				"grid-te",
-				"grid-template-columns"
-			],
-			[
-				"first-l",
-				"::first-letter"
-			],
-			[
-				"text-tan",
-				"text-transform"
-			],
-			[
-				"--ctp",
-				"--ctp-mocha-text"
-			],
-			[
-				"--ctp-su",
-				"--ctp-mocha-subtext0"
-			],
-			[
-				"--co",
-				"--color-white"
-			],
-			[
-				"Jav",
-				"JavaScript"
-			],
-			[
-				"assertE",
-				"assertExists"
-			],
-			[
-				"ass",
-				"assertEquals"
-			],
-			[
-				"asse",
-				"import { assertFp$1 } from \"https://jsr.io/@std/internal/1.0.0/mod.ts\";"
-			],
-			[
-				"mu",
-				"multiplier"
-			],
-			[
-				"mult",
-				"multiplier"
-			],
-			[
-				"expo",
-				"exponentiate"
-			],
-			[
-				"fn",
-				"fn(t) {\n  $0\n},"
-			],
-			[
-				"di",
-				"divisor"
-			],
-			[
-				"sub",
-				"subtrahend"
-			],
-			[
-				"mul",
-				"multiplier"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"font-z",
-				"font-size"
-			],
-			[
-				"ctp-latt",
-				"--ctp-latte-red"
-			],
-			[
-				"border-b",
-				"border-bottom"
-			],
-			[
-				"box-s",
-				"box-sizing"
-			],
-			[
-				"--ctp-latte-s",
-				"--ctp-latte-sky"
-			],
-			[
-				"grid-rw",
-				"grid-row"
-			],
-			[
-				"gridcol",
-				"grid-column"
-			],
-			[
-				"grid-templ",
-				"grid-template-rows"
 			]
 		]
 	},
@@ -531,6 +531,46 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"enable ls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
 			[
 				"proje",
 				"Project: Save As"
@@ -553,10 +593,6 @@
 			],
 			[
 				"r",
-				"LSP: Rename"
-			],
-			[
-				"rena",
 				"LSP: Rename"
 			],
 			[
@@ -628,16 +664,8 @@
 				"Preferences: LSP Settings"
 			],
 			[
-				"ena",
-				"LSP: Enable Language Server in Project"
-			],
-			[
 				"disable ",
 				"LSP: Disable Language Server Globally"
-			],
-			[
-				"enab",
-				"LSP: Enable Language Server in Project"
 			],
 			[
 				"csv",
@@ -708,16 +736,8 @@
 				"Package Control: List Packages"
 			],
 			[
-				"setting",
-				"Preferences: Settings"
-			],
-			[
 				"settin",
 				"Preferences: Settings"
-			],
-			[
-				"enable ls",
-				"LSP: Enable Language Server in Project"
 			],
 			[
 				"lsp",
@@ -790,10 +810,6 @@
 			[
 				"LSP",
 				"LSP: Enable Language Server in Project"
-			],
-			[
-				"prettier",
-				"JsPrettier: Format Code"
 			],
 			[
 				"in",
@@ -897,10 +913,6 @@
 			],
 			[
 				"pac",
-				"Package Control: List Packages"
-			],
-			[
-				"pack",
 				"Package Control: List Packages"
 			],
 			[
@@ -1033,10 +1045,27 @@
 	},
 	"expanded_folders":
 	[
-		"/D/coding/sandbox/tailwind/maiden"
+		"/D/coding/sandbox/tailwind/maiden",
+		"/D/coding/sandbox/tailwind/maiden/src"
 	],
 	"file_history":
 	[
+		"/D/coding/sandbox/tailwind/maiden/index.html",
+		"/D/coding/sandbox/tailwind/maiden/dashboard-home.html",
+		"/D/coding/sandbox/tailwind/maiden/login.html",
+		"/D/coding/sandbox/tailwind/maiden/temp.html",
+		"/D/coding/sandbox/tailwind/maiden/src/dashboard-home.html",
+		"/D/coding/sandbox/tailwind/maiden/src/index.css",
+		"/D/coding/sandbox/tailwind/maiden/public/assets/svgs/hero.svg",
+		"/D/coding/sandbox/tailwind/maiden/public/assets/svgs/hero-2.svg",
+		"/D/coding/sandbox/tailwind/maiden/public/assets/svgs/tenkai.svg",
+		"/D/coding/sandbox/tailwind/maiden/tailwind.config.js",
+		"/D/coding/sandbox/designs/fluid-table/src/styles/base.css",
+		"/D/coding/sandbox/designs/fluid-table/src/style.css",
+		"/D/coding/sandbox/tailwind/maiden/.prettierrc.json",
+		"/D/coding/sandbox/tailwind/maiden/src/main.ts",
+		"/D/coding/sandbox/tailwind/maiden/src/style.css",
+		"/D/coding/sandbox/tailwind/maiden/public/wind.svg",
 		"/D/coding/projects/nicn/cleaning/nodemon.json",
 		"/D/coding/sandbox/designs/fluid-table/index.html",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts/mock-table.ts",
@@ -1052,8 +1081,6 @@
 		"/D/coding/sandbox/designs/fluid-table/fluid-table.sublime-project",
 		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/navbar.css",
 		"/D/coding/sandbox/designs/fluid-table/src/styles/landing/hero.css",
-		"/D/coding/sandbox/designs/fluid-table/src/style.css",
-		"/D/coding/sandbox/designs/fluid-table/src/styles/base.css",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts/update.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts/model.ts",
 		"/D/coding/sandbox/designs/fluid-table/src/scripts/view.ts",
@@ -1150,25 +1177,11 @@
 		"/D/coding/sandbox/designs/border-line/public/fonts/Montserrat/Montserrat.css",
 		"/D/coding/sandbox/designs/border-line/public/fonts/Lato/Lato.css",
 		"/D/coding/sandbox/designs/border-line/package.json",
-		"/D/coding/sandbox/designs/border-line/public/css/preflight.css",
-		"/D/coding/sandbox/designs/border-line/src/modern-normalize.min.css",
-		"/D/coding/sandbox/designs/README.md",
-		"/D/coding/sandbox/designs/index.html",
-		"/D/coding/sandbox/designs/border-line/main.css",
-		"/D/coding/sandbox/web-designs/space-ghoul/NOTES.md",
-		"/D/coding/sandbox/web-designs/space-ghoul/index.html",
-		"/D/coding/sandbox/web-designs/space-ghoul/src/style.tailwind.css",
-		"/C/Users/Olatunde/komorebi.json",
-		"/C/Users/Olatunde/.config/whkdrc",
-		"/D/coding/sandbox/web-designs/space-ghoul/component/basic-btn-card.html",
-		"/D/coding/sandbox/web-designs/space-ghoul/tailwind.config.js",
-		"/D/coding/sandbox/web-designs/space-ghoul/prettier.config.js",
-		"/D/coding/sandbox/web-designs/space-ghoul/package.json",
-		"/D/coding/sandbox/web-designs/space-ghoul/src/main.ts"
+		"/D/coding/sandbox/designs/border-line/public/css/preflight.css"
 	],
 	"find":
 	{
-		"height": 27.2
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -1182,6 +1195,134 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"summary",
+			"ipsum",
+			" class=\" \"",
+			"properties",
+			"white",
+			"400",
+			"my-2",
+			"div",
+			"red",
+			"green",
+			"orange",
+			"red",
+			"blue",
+			"green",
+			"orange",
+			"quizes",
+			"finals",
+			"blue",
+			"basis-1/4",
+			"capitalize",
+			"text ",
+			"text",
+			"font-bold text-xl capitalize text-gray-600",
+			"font-semibold text-gray-500 text-sm capitalize",
+			"lecture one",
+			"July",
+			"green",
+			"items-center justify-between",
+			"view",
+			"All",
+			"capitalize",
+			"auto",
+			"week one",
+			"<div class=\"\"></div>",
+			"attendance",
+			"red-500",
+			"wolfram",
+			"present",
+			"green",
+			"wolfram",
+			"olatunde",
+			"donald",
+			"lowercase",
+			"100",
+			"odd",
+			"*:p-2",
+			"olatunde",
+			"absent",
+			"200",
+			"sm",
+			"\">\n",
+			"p-2",
+			"200",
+			"calendar",
+			"bold",
+			"text-white ",
+			"bg-blue-400",
+			"tests",
+			"quizes",
+			"div",
+			"Aerodynamic",
+			"home",
+			" h-3 ",
+			"div",
+			"border-2 border-blue-200",
+			"border-2 border-blue-200 ",
+			"xs",
+			"md",
+			"aspect-[5]",
+			"square",
+			"aspect-square",
+			"rounded-full",
+			"square",
+			"opacity-60",
+			"red",
+			"auto",
+			"h-fit",
+			"blue",
+			"details",
+			"mb-1",
+			"center",
+			"gray-500",
+			"500",
+			"<li",
+			"li",
+			"students",
+			"location",
+			"100",
+			"purple",
+			"red",
+			"orange",
+			"red",
+			"400",
+			"actions",
+			"auto",
+			"100",
+			"400",
+			"div",
+			"blue",
+			"white",
+			"red",
+			"capitalize",
+			"semibold",
+			"purple",
+			"red",
+			"600",
+			"lg",
+			"60a5fa",
+			"eff6ff",
+			"4/3",
+			"blue",
+			"auto",
+			"text-left",
+			"400 capitalize",
+			"500 transition-all duration-300",
+			"transition-all duration-300",
+			"blue",
+			"-500",
+			"capitalize",
+			"ea580c",
+			"stroke=",
+			"stroke",
+			"class=\"p-2",
+			"class",
+			"div",
+			"border-2 border-",
+			"border-2 border-red",
+			"h-6 w-6"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1275,16 +1416,48 @@
 		"selected_items":
 		[
 			[
+				"login",
+				"login.html"
+			],
+			[
+				"dashb",
+				"src\\dashboard-home.html"
+			],
+			[
+				"index.cs",
+				"src\\index.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ten",
+				"public\\assets\\svgs\\tenkai.svg"
+			],
+			[
+				"hero-",
+				"public\\assets\\svgs\\hero-2.svg"
+			],
+			[
+				"tailwin",
+				"tailwind.config.js"
+			],
+			[
+				"tai",
+				"tailwind.config.js"
+			],
+			[
+				"vite.s",
+				"public\\vite.svg"
+			],
+			[
 				"demo.",
 				"src\\styles\\landing\\demo.css"
 			],
 			[
 				"main",
 				"src\\main.ts"
-			],
-			[
-				"index",
-				"index.html"
 			],
 			[
 				"demo",
@@ -1753,38 +1926,6 @@
 			[
 				"home.ts",
 				"src\\routes\\dashboard\\client\\home.ts"
-			],
-			[
-				"clien-t",
-				"src\\routes\\dashboard\\client\\client-requests.ts"
-			],
-			[
-				"viewres",
-				"src\\views\\pages\\dashboard\\client\\client-requests\\view-request.njk"
-			],
-			[
-				"view-respe",
-				"src\\views\\pages\\dashboard\\client\\tailor-responses\\view-response.njk"
-			],
-			[
-				"tailor-respon",
-				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
-			],
-			[
-				"tailor-re",
-				"src\\views\\pages\\dashboard\\client\\tailor-responses.njk"
-			],
-			[
-				"TailorRes",
-				"src\\models\\TailorResponse.ts"
-			],
-			[
-				"client-res",
-				"src\\routes\\dashboard\\client\\client-requests.ts"
-			],
-			[
-				"reviews.njk",
-				"src\\views\\pages\\dashboard\\client\\reviews.njk"
 			]
 		],
 		"width": 0.0
